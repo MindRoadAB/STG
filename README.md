@@ -1,1 +1,0 @@
-# STG_horse_organizer
