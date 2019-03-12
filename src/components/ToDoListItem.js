@@ -9,6 +9,7 @@ class ToDoListItem extends Component {
   };
 
   render() {
+    //debugger;
     const { todoId, todo } = this.props;
     return (
       <div key="toDoName" className="col s10 offset-s1 to-do-list-item teal">
